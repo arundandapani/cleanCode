@@ -1,0 +1,5 @@
+package com.practice.patterns.factory.pizzaaf;
+
+public interface Cheese {
+	public String toString();
+}
