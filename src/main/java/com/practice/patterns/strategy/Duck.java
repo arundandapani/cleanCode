@@ -1,4 +1,4 @@
-package com.practice.strategy;
+package com.practice.patterns.strategy;
 
 public abstract class Duck {
 	FlyBehavior flyBehavior;

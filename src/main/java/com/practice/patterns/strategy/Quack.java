@@ -1,4 +1,4 @@
-package com.practice.strategy;
+package com.practice.patterns.strategy;
 
 public class Quack implements QuackBehavior {
 	public void quack() {

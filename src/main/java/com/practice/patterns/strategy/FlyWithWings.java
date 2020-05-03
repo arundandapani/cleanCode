@@ -1,4 +1,4 @@
-package com.practice.strategy;
+package com.practice.patterns.strategy;
 
 public class FlyWithWings implements FlyBehavior {
 	public void fly() {
